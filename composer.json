@@ -5,6 +5,7 @@
     "homepage":         "https://zoujianshuang@github.com",
     "time":             "2017-12-07",
     "license":          "MIT",
+    "minimum-stability": "stable",
     "authors": [{
         "name":         "ZouJS",
         "email":        "zoujianshuang@dingtalk.com",
