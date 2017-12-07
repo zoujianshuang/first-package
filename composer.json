@@ -1,0 +1,14 @@
+{
+    "name":             "shuang/first-package",
+    "description":      "A downloaded dependency package",
+    "keywords":         ["dependency", "shuang", "zjs"],
+    "homepage":         "https://zoujianshuang@github.com",
+    "time":             "2017-12-07",
+    "license":          "MIT",
+    "authors": [{
+        "name":         "ZouJS",
+        "email":        "zoujianshuang@dingtalk.com",
+        "homepage":     "https://zoujianshuang@github.com",
+        "role":         "gad"
+    }]
+}
